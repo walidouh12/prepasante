@@ -1,0 +1,29 @@
+{
+  "name": "Prépa Santé — Concours 2026",
+  "short_name": "Prépa Santé",
+  "id": "/?source=pwa",
+  "start_url": "index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0fdfa",
+  "theme_color": "#0f766e",
+  "lang": "fr",
+  "dir": "ltr",
+  "description": "Préparation aux concours d'accès aux écoles de santé.",
+  "categories": ["education", "medical"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
